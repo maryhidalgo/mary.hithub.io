@@ -1,0 +1,30 @@
+body{
+background-color: rgb(15, 108, 162);
+}
+h1{
+    color: burlywood; /*ponerle color a la letra*/
+    font-size: 35px; /*determinar el tamaño de la letra*/
+    font-family: 'Franklin Gothic Medium',; /*para poner el tipo de letra*/
+    font-weight: bold; /* para ponerle el negrita*/
+    font-style: italic; /*para ponerle cursiva*/
+    text-align: center; /*para centrar el texto*/
+    text-decoration: underline; /*para subrayar*/
+    
+}
+p{
+    color: black;
+    font-size:  25px; 
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    line-height: 10px; /*determinar la alaltura de la linea del texto*/
+    letter-spacing: 5px; /*aumenta o disminuye el tamaño entrs las letras*/
+    word-spacing: 1px; /*define espacio entre las palabras*/
+
+}
+footer{
+    color: cadetblue;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: azure;
+    text-align: center;
+} 
